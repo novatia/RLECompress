@@ -1,0 +1,6 @@
+E:\Dropbox\Dropbox\CELESTRON\SUNO\SUNO_PJ\N3RLE\N3RLE\bin\Debug\N3RLE.exe
+E:\Dropbox\Dropbox\CELESTRON\SUNO\SUNO_PJ\N3RLE\N3RLE\bin\Debug\N3RLE.pdb
+E:\Dropbox\Dropbox\CELESTRON\SUNO\SUNO_PJ\N3RLE\N3RLE\obj\x86\Debug\N3RLE.exe
+E:\Dropbox\Dropbox\CELESTRON\SUNO\SUNO_PJ\N3RLE\N3RLE\obj\x86\Debug\N3RLE.pdb
+E:\RepositoryGIT\N3RLE\N3RLE\obj\x86\Debug\N3RLE.exe
+E:\RepositoryGIT\N3RLE\N3RLE\obj\x86\Debug\N3RLE.pdb
